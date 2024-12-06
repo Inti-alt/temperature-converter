@@ -9,7 +9,9 @@ body{
     color: antiquewhite;
     text-align: center;
     height: 150px;
-    font-size:60px;    
+    font-size:90px; 
+    height: 190px;
+    padding: 25px;   
     
 }
 
@@ -48,28 +50,7 @@ body{
 
 #myh3{
     color: #000;
-    font-size: 60px;
+    font-size: 80px;
     margin-top: 80px;
 
-}
-
-#container{
-    display: inline-block;
-    
-    
-}
-
-#side{
-    display: inline-block;
-    font-size: 30px;
-    width: 400px;
-    height:489px;
-    margin-top: 0px;
-    float: right;
-    margin-right: 15px;
-    margin-top: 5px;
-    overflow: auto;
-    border: 3px solid rgb(61, 61, 61);
-    overflow-y: scroll;
-    box-shadow: 7px 7px 10px rgb(207, 204, 204);
 }
