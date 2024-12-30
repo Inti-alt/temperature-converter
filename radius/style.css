@@ -1,24 +1,22 @@
 body{
     font: 2em sans-serif;
-    background-color:antiquewhite;
-    margin:0 ;
+    background-color:rgb(255, 210, 171);
 }
 
 #myh1{
-    background-color: black;
-    color: antiquewhite;
+
+    color: rgb(252, 221, 193);
     text-align: center;
-    height: 150px;
-    font-size:90px; 
-    height: 190px;
-    padding: 25px;
-    width:100%;
-    
+    font-size:40px; 
+    font-weight: 100%;
+    margin-top: 2px;
+  
 }
 
 #radius{
     margin-left: 10px;
-    font-size: 60px;
+    font-size: 35px;
+    color: antiquewhite;
 }
 
 #mytext{
@@ -54,4 +52,15 @@ body{
     font-size: 80px;
     margin-top: 80px;
 
+}
+
+#full{
+    text-align: center;
+    max-width: 500px;
+    margin: auto;
+    border-radius: 10px;
+    box-shadow: 5px 5px 15px black;
+    background-color: rgb(41, 24, 24);
+    padding: 25px;
+    height:490px
 }
